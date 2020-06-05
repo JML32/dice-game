@@ -1,0 +1,9 @@
+img {
+  margin-top: 10%;
+  -webkit-filter: invert(1);
+          filter: invert(1);
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+}
+/*# sourceMappingURL=Dice.css.map */

@@ -1,0 +1,24 @@
+.game-container {
+  margin-top: 50px;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 10px;
+  height: 50%;
+}
+
+.game-container button {
+  background-color: #ff2424;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: none;
+  padding: 10px;
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+.game-container button:hover {
+  background-color: #2a2ad1;
+  color: #db5050;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Generator.css.map */
